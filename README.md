@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-Full-stack engineer (Systems & Workflow Focused) focused on building **production-grade systems** with real-world behavior.
+Full-stack engineer (Systems & Workflow-Oriented) focused on building **production-grade systems** with real-world behavior.
 
 I design software around:
 - State & lifecycle modeling  
